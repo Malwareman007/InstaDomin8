@@ -1,7 +1,6 @@
 #!/bin/bash
-# Coded by: thelinuxchoice (Don't change, noob!)
-# www.github.com/thelinuxchoice
-# www.instagram.com/thelinuxchoice
+# Coded by: Malwareman (Don't change, noob!)
+
 
 trap 'store; exit 1;' 2
 
