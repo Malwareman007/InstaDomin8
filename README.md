@@ -21,10 +21,10 @@ The usage of InstaDomin8 for attacking targets without prior mutual consent is i
 
 ### Usage:
 ```
-git clone https://github.com/Malwareman007/Domin8
-cd instadomin8
+git clone https://github.com/Malwareman007/InstaDomin8
+cd InstaDomin8
 chmod +x instadomin8.sh
-sudo ./insta.sh
+sudo ./instadomin8.sh
 ```
 
 ### Install requirements (Curl, Tor, OpenSSL):
